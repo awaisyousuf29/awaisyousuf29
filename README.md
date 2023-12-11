@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @awaisyousuf29
 
-Welcome to my GitHub profile! I'm a passionate Laravel developer with a keen interest in [mention any specific interests or technologies you are enthusiastic about].
+Welcome to my GitHub profile! I'm a passionate Laravel developer with a keen interest in Laravel,vue js,TALL Stack.
 
 ## 👀 I’m interested in...
 
@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate Laravel developer with a keen int
 
 I'm always eager to enhance my skills and currently focused on:
 
-- [Specific technology or skill you are learning]
-- [Another area of improvement]
+- TALL STACK
+- New technologies
 
 ## 💞️ I’m looking to collaborate on...
 
@@ -21,7 +21,7 @@ I'm open to collaboration on projects related to:
 
 - Laravel applications
 - Open-source projects
-- [Any specific collaboration interests]
+
 
 ## 📫 How to reach me...
 
